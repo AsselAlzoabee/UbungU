@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module vorgabe_fuerAndere {
-}
